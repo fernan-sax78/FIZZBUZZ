@@ -1,0 +1,12 @@
+
+.contenedor{
+    width: 80%;
+    text-align: center;
+    margin: 1rem auto;
+}
+.contSpan{
+ display: flex;
+ justify-content: space-around;
+    
+}
+.contSpan span{display: block; margin: .8rem;padding: .30rem;border-radius: .30rem;}
